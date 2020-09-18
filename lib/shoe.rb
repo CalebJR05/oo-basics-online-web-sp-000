@@ -42,7 +42,7 @@ class Shoe
   
   def cobble()
     self.condition = "new"
-    puts "Your shoe has been repaired!"
+    puts "Your shoe is good as new!learn spec/02_shoe_spec.rb"
   end
 
 end
