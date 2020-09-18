@@ -8,7 +8,7 @@ class Shoe
     @brand
   end
   
-  def color = (color)
+  def color=(color)
     @color = color
   end
   
@@ -16,7 +16,7 @@ class Shoe
     @color
   end
   
-  def size = (size)
+  def size=(size)
     @size = size
   end
   
@@ -24,7 +24,7 @@ class Shoe
     @size
   end
   
-  def material = (material)
+  def material=(material)
     @material = material
   end
   
@@ -32,7 +32,7 @@ class Shoe
     @material
   end
   
-  def condition = (condition)
+  def condition=(condition)
     @condition = condition
   end
   
